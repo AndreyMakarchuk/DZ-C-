@@ -1,0 +1,15 @@
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\dz_semi011.csproj.AssemblyReference.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\dz_semi011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\dz_semi011.AssemblyInfoInputs.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\dz_semi011.AssemblyInfo.cs
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\dz_semi011.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\bin\Debug\net6.0\dz_semi011.exe
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\bin\Debug\net6.0\dz_semi011.deps.json
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\bin\Debug\net6.0\dz_semi011.runtimeconfig.json
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\bin\Debug\net6.0\dz_semi011.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\bin\Debug\net6.0\dz_semi011.pdb
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\dz_semi011.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\refint\dz_semi011.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\dz_semi011.pdb
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\dz_semi011.genruntimeconfig.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi011\obj\Debug\net6.0\ref\dz_semi011.dll
